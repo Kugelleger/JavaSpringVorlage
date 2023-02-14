@@ -19,4 +19,5 @@ public class VorlageJsApplication {
 		SpringApplication.run(VorlageJsApplication.class, args);
 	}
 
+
 }
