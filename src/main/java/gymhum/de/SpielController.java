@@ -10,7 +10,7 @@ import gymhum.de.model.Feld;
 @Controller
 public class SpielController {
     
-    Feld[][] felder;
+    Feld[][] felder;//deine muddi
     boolean activePlayer;
 
     public SpielController(){
